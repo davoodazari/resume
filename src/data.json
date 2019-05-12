@@ -1,0 +1,62 @@
+{
+    "title" : "Hello I am Davood Talebi Azar",
+    "subtitle": "Full Stack Dev | Open-Source Enthusiast",
+    "links":{
+        "github": "http://github.com/jaketrent",
+        "twitter": "http://twitter.com/jaketrent",
+        "facebook": "http://facebook.com/jaketrent",
+        "instagram": "http://instagram.com/jaketrent"
+    },
+    "sections":[
+           {
+               
+    "title": "About",
+            "Items":[
+                {
+                    "type" :"p",
+                    "content":"When my dev senses kick-in I build presumably awesome stuff."
+                }
+            ]
+           },
+          {
+              "title" :"Skills",
+              "items":[
+                {
+                    "type": "card",
+                    "content": {
+                        "image":"images/React.png",
+                        "title":"React"
+    
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image":"images/JavaScript.png",
+                        "title":"javaScript"
+    
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image":"images/HTML.png",
+                        "title":"HTML"
+    
+                    }
+                },
+                {
+                    "type": "card",
+                    "content": {
+                        "image":"images/CSS.png",
+                        "title":"CSS"
+    
+                    }
+                }
+        ]
+          }
+    ],
+    "icons":{
+        "down":"images/Down.png"
+    }
+    }
